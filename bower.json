@@ -1,0 +1,24 @@
+{
+  "name": "BootstrapTest",
+  "description": "Test",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap"
+  ],
+  "authors": [
+    "jdsl"
+  ],
+  "license": "MIT",
+  "homepage": "139.59.186.191",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.6"
+  }
+}
