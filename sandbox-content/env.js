@@ -1,3 +1,3 @@
 env = {
-	CONSUMER_KEY: 'GVRq6iGKUme0GrBzuoCF9LhJvCiRsWAd'
+	CONSUMER_KEY: 'AqUmJlADddSGpw2i9D6CSqr0AyHuJx6I'
 }	
