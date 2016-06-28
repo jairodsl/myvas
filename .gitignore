@@ -1,2 +1,2 @@
-/sandbox-content/env.js
+sandbox-content/*.js
 node_modules
